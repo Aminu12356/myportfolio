@@ -1,69 +1,14 @@
-style>
-body {
-    font-family: Arial, sans-serif;
-    margin: 0;
-    background: #f4f4f4;
-}
+<head>
+    <Title>Portfolio</Title>
 
-/* Navbar */
-header {
-    background: #333;
-    padding: 15px;
-}
-
-nav ul {
-    display: flex;
-    justify-content: center;
-    list-style: none;
-}
-
-nav ul li {
-    margin: 0 15px;
-}
-
-nav ul li a {
-    color: white;
-    text-decoration: none;
-}
-
-/* Sections */
-section {
-    padding: 40px;
-    margin: 20px;
-    background: white;
-    border-radius: 10px;
-}
-
-h1, h2 {
-    color: #333;
-}
-
-/* Form */
-input, textarea {
-    width: 100%;
-    padding: 10px;
-    margin-top: 5px;
-}
-
-input[type="submit"] {
-    background: #333;
-    color: white;
-    border: none;
-}
-
-/* Footer */
-footer {
-    text-align: center;
-    background: #333;
-    color: white;
-    padding: 15px;
-}
-</style>
 </head>
 
 <body>
 
 <header>
+    <h1>Welcome to My Portfolio</h1>
+
+    <img/ src="ronaldo.webp" width="700">
 <nav>
 <ul>
 <li><a href="#home">Home</a></li>
@@ -76,7 +21,7 @@ footer {
 </header>
 
 <section id="home">
-<h1>Welcome to My Portfolio</h1>
+<h1>Home</h1>
 <p>Hello, I'm Aminu, a web developer in training.</p>
 </section>
 
@@ -123,8 +68,13 @@ footer {
 <section id="contact">
 <h2>Contact Me</h2>
 <form>
-<input type="text" placeholder="Your Name">Aminu
-<input type="email" placeholder="Your Email">aminuaudu61@gmail.com
+    <label for="name">Full Name:</label>
+<input type="text" placeholder="Your Name">
+
+<label for="name">Email:</label>
+<input type="email" placeholder="Your Email">
+
+<label for="name">Message:</label>
 <textarea placeholder="Your Message"></textarea>
 <input type="submit" value="Send">
 </form>
