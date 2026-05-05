@@ -1,3 +1,6 @@
+<<<<<<< HEAD
+# portfolio
+=======
 README.md
 # 🌐 Aminu Portfolio
 
@@ -34,3 +37,5 @@ https://Aminu12356.github.io/portfolio
 
 ## 👤 Author
 Aminu
+>>>>>>> fb9f6d510bbf125c225a7e6090008dfad9bb1522
+# checkpoint-2
