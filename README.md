@@ -1,23 +1,36 @@
 README.md
-
 # 🌐 Aminu Portfolio
 
-Welcome to my portfolio website.
+This is my personal portfolio website built using HTML and CSS.
+
 
 ## 🚀 About
-This is my personal portfolio built with HTML.  
-It shows my projects, skills, and contact information.
+This project showcases:
+- My web development skills
+- My projects
+- My contact information
+
 
 ## 🛠️ Technologies Used
 - HTML
 - CSS
-- JavaScript
 
-## 📂 Project Files
+
+## 📂 Project Structure
 - index.html
+- styles.css
+- assets/
 
-## 🌍 Live Site
+
+## 🌍 Live Website
 https://Aminu12356.github.io/portfolio
 
-## ✨ Author
+## ✨ Features
+- Responsive layout
+- Styled navigation bar
+- Project gallery
+- Animations
+
+
+## 👤 Author
 Aminu
